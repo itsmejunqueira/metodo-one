@@ -1,123 +1,196 @@
-.container{
-    display: flex;
+@import "~bootstrap-icons/font/bootstrap-icons.css";
+.container {
+    display       : flex;
     flex-direction: column;
-    flex-wrap: nowrap;
-    color: aliceblue;
-    .section-button{
-        margin: 5% 5%;
-        display: flex;
-        align-items:center;
+    flex-wrap     : nowrap;
+    color         : aliceblue;
+
+    .section-button {
+        margin         : 5% 5%;
+        display        : flex;
+        align-items    : center;
         justify-content: center;
-        .btn{
-            font-weight: 700;
-            fill: #000000;
-            color: #000000;
+
+        .btn {
+            font-weight     : 700;
+            fill            : #000000;
+            color           : #000000;
             background-color: #B0F122;
-            border-radius: 0px 0px 0px 0px;
-            box-shadow: 0px 0px 62px 0px rgba(164.37407116168478, 238.85000000000002, 73.1478125, 0.56);
-            padding: 25px 35px 25px 35px;
+            border-radius   : 0px 0px 0px 0px;
+            box-shadow      : 0px 0px 62px 0px rgba(164.37407116168478, 238.85000000000002, 73.1478125, 0.56);
+            padding         : 25px 35px 25px 35px;
         }
     }
-    .container-element-video{           
-        background-image: url(https://images.pexels.com/photos/3125638/pexels-photo-3125638.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+
+    .container-element-video {
+        background-image   : url(https://images.pexels.com/photos/3125638/pexels-photo-3125638.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
         background-position: top center;
-        background-repeat: no-repeat;
-        background-size: cover;
-        display: flex;
-        flex-direction: column;
-        align-items:center;
-        justify-content: center;
-        .section-text{
-            margin-top: 8%;
+        background-repeat  : no-repeat;
+        background-size    : cover;
+        display            : flex;
+        flex-direction     : column;
+        align-items        : center;
+        justify-content    : center;
+
+        .section-text {
+            margin-top   : 8%;
             margin-bottom: 10px;
-            font-family: 'Poppins';
-            color: aliceblue;
-            font-size: 20px;
+            font-family  : 'Poppins';
+            color        : aliceblue;
+            font-size    : 20px;
         }
-        .section-video{
-            display: flex;
-            align-items:center;
+
+        .section-video {
+            display        : flex;
+            align-items    : center;
             justify-content: center;
-        }        
+        }
     }
-   .container-element-photo{
-        .section-presentation{
-            margin: 5% 15%;
-            display: flex;
-            align-items:center;
+
+    .container-element-photo {
+        .section-presentation {
+            margin         : 5% 15%;
+            display        : flex;
+            align-items    : center;
             justify-content: center;
         }
-        .section-text{
+
+        .section-text {
             margin-left: 5%;
             font-family: 'Poppins';
-            color: aliceblue;
-            font-size: 20px;
-            h1{
+            color      : aliceblue;
+            font-size  : 20px;
+
+            h1 {
                 color: #B0F122;
             }
         }
     }
-    .container-element-icons{
-        display: flex;
-       flex-wrap: wrap;
-       justify-content: center;
-       align-items: center;
-       flex-direction: row;
-       align-content: center;
-       .element-presentation {
-           display: flex;
-          align-items: center;
-          justify-content: center;
-          margin: 5% 25%;
-          .section-element-container{
-            width: 400px;
-            height: 320px;
-            margin: 1em 1em 1em 1em;
-            padding: 2em 2em 2em 2em;
-            background-color: #0000007D;
-            border-style: solid;
-            border-width: 0px 0px 1px 0px;
-            border-color: #B0F122;
-            border-radius: 15px 15px 15px 15px;
-            font-size: 17px;
-            display: grid;
-             align-items: center;
-            img{
-                width: 20%;
-                margin-bottom: 15px;
-            }
-            h4{
-                font-family: "Montserrat", Sans-serif;
-                font-size: 22px;
-                font-weight: 600;
-                line-height: 5px;
-                letter-spacing: 0px;
-                color: #B0F122;
-            }
-          }
-       }
-    }
-    .container-element-carrossel{
-        margin: 0em;
-        padding: 4em 0em 4em 0em;
-        .container-element-carrosse-alinha{
-            display: grid;
-            margin-right: auto;
-            margin-left: auto;
-            position: relative;
-            max-width: 1000px;
+
+    .container-element-icons {
+        display        : flex;
+        flex-wrap      : wrap;
+        justify-content: center;
+        align-items    : center;
+        flex-direction : row;
+        align-content  : center;
+
+        .element-presentation {
+            display        : flex;
+            align-items    : center;
             justify-content: center;
-            align-items: center;
+            margin         : 5% 25%;
+
+            .section-element-container {
+                width           : 400px;
+                height          : 320px;
+                margin          : 1em 1em 1em 1em;
+                padding         : 2em 2em 2em 2em;
+                background-color: #0000007D;
+                border-style    : solid;
+                border-width    : 0px 0px 1px 0px;
+                border-color    : #B0F122;
+                border-radius   : 15px 15px 15px 15px;
+                font-size       : 17px;
+                display         : grid;
+                align-items     : center;
+
+                img {
+                    width        : 20%;
+                    margin-bottom: 15px;
+                }
+
+                h4 {
+                    font-family   : "Montserrat", Sans-serif;
+                    font-size     : 22px;
+                    font-weight   : 600;
+                    line-height   : 5px;
+                    letter-spacing: 0px;
+                    color         : #B0F122;
+                }
+            }
         }
-        .section-titulo{
-            text-align: center;
-            color: #FFFFFF;
+    }
+
+    .container-element-carrossel {
+        margin : 0em;
+        padding: 4em 0em 4em 0em;
+
+        .container-element-carrosse-alinha {
+            display        : grid;
+            margin-right   : auto;
+            margin-left    : auto;
+            position       : relative;
+            max-width      : 1000px;
+            justify-content: center;
+            align-items    : center;
+        }
+
+        .section-titulo {
+            text-align : center;
+            color      : #FFFFFF;
             font-family: "Montserrat", Sans-serif;
-            font-size: 28px;
+            font-size  : 28px;
             font-weight: 900;
         }
-        .section-carrossel{
-          margin-top: 20px;
+
+        .section-carrossel {
+            margin-top: 20px;
+        }
+    }
+
+    .container-element-price {
+        margin : 0em;
+        padding: 4em 0em 4em 0em;
+        width  : 100%;
+
+        .section-title {
+            display        : flex;
+            justify-content: center;
+            align-items    : center;
+            font-family    : "Montserrat", Sans-serif;
+            font-size      : 22px;
+            font-weight    : 600;
+
+        }
+
+        .section-plans {
+            margin-top     : 10px;
+            display        : flex;
+            flex-wrap      : nowrap;
+            justify-content: center;
+            flex-direction : row;
+            align-items    : center;
+
+            .section-plans-types {
+                width        : 330px;
+                height       : auto;
+                border-style : solid;
+                border-width : 1px 0px 1px 0px;
+                border-color : #B0F122;
+                margin       : 20px 20px 20px 20px;
+                padding      : 20px 20px 20px 20px;
+                border-radius: 15px 15px 15px 15px;
+
+                .title {
+                    color: #B0F122;
+                }
+                li {
+                    list-style-type: none;
+                    .bi-check{
+                        color: #B0F122;
+                    }
+                  }
+                .price {
+                    display        : grid;
+                    justify-content: center;
+
+                    .title-price {
+                        font-weight: 600;
+                        color      : #B0F122;
+                    }
+                }
+            }
         }
     }
 }
