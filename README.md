@@ -16,12 +16,12 @@ Pagina unica para venda de curso
 
 
 
-!(https://github.com/itsmejunqueira/metodo-one/blob/firts-steps/src/assets/midia/landing-video.JPG)
-![recuperar senha](https://github.com/itsmejunqueira/metodo-one/blob/firts-steps/src/assets/midia/landing-2-foto.JPG)
-![criar conta](https://github.com/itsmejunqueira/metodo-one/blob/firts-steps/src/assets/midia/landing-3-vantgens.JPG)
-!(https://github.com/itsmejunqueira/metodo-one/blob/firts-steps/src/assets/midia/landing-4-carrossel.jpg)
-!(https://github.com/itsmejunqueira/metodo-one/blob/firts-steps/src/assets/midia/landing-5-planos.JPG)
-!(https://github.com/itsmejunqueira/metodo-one/blob/firts-steps/src/assets/midia/landing-6-help.JPG)
+![](https://github.com/itsmejunqueira/metodo-one/blob/firts-steps/src/assets/midia/landing-video.JPG)
+![](https://github.com/itsmejunqueira/metodo-one/blob/firts-steps/src/assets/midia/landing-2-foto.JPG)
+![](https://github.com/itsmejunqueira/metodo-one/blob/firts-steps/src/assets/midia/landing-3-vantgens.JPG)
+![](https://github.com/itsmejunqueira/metodo-one/blob/firts-steps/src/assets/midia/landing-4-carrossel.jpg)
+![](https://github.com/itsmejunqueira/metodo-one/blob/firts-steps/src/assets/midia/landing-5-planos.JPG)
+![](https://github.com/itsmejunqueira/metodo-one/blob/firts-steps/src/assets/midia/landing-6-help.JPG)
 
 
 
