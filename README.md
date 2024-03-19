@@ -1,6 +1,6 @@
 Landing Page - Metodo One
 
-📌About 
+📌Sobre esse projeto
 
 Pagina unica para venda de curso 
 - Apresentação do "curso" por video.
@@ -10,7 +10,8 @@ Pagina unica para venda de curso
 - Accordion com respostas de duvidas sobre o "curso".
 - Termos de uso e Diretos do site.
 
-👓 
+👓 Gerado com:
+
  * [Angular CLI](https://github.com/angular/angular-cli) version 16.0.1.
  * Bootstrap 5.3.3
 
@@ -25,10 +26,6 @@ Pagina unica para venda de curso
 
 
 
-
-# MetodoOne
-
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.1.
 
 ## Development server
 
