@@ -1,6 +1,31 @@
-# MetodoOne
+Landing Page - Metodo One
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.1.
+📌Sobre esse projeto
+
+Pagina unica para venda de curso 
+- Apresentação do "curso" por video.
+- Apresentação do "curso" por foto.
+- Vantagens de adquirir o "curso".
+- Carrossel apresentando as "Avaliações do alunos".
+- Accordion com respostas de duvidas sobre o "curso".
+- Termos de uso e Diretos do site.
+
+👓 Gerado com:
+
+ * [Angular CLI](https://github.com/angular/angular-cli) version 16.0.1.
+ * Bootstrap 5.3.3
+
+
+
+![](https://github.com/itsmejunqueira/metodo-one/blob/firts-steps/src/assets/midia/landing-video.JPG)
+![](https://github.com/itsmejunqueira/metodo-one/blob/firts-steps/src/assets/midia/landing-2-foto.JPG)
+![](https://github.com/itsmejunqueira/metodo-one/blob/firts-steps/src/assets/midia/landing-3-vantgens.JPG)
+![](https://github.com/itsmejunqueira/metodo-one/blob/firts-steps/src/assets/midia/landing-4-carrossel.jpg)
+![](https://github.com/itsmejunqueira/metodo-one/blob/firts-steps/src/assets/midia/landing-5-planos.JPG)
+![](https://github.com/itsmejunqueira/metodo-one/blob/firts-steps/src/assets/midia/landing-6-help.JPG)
+
+
+
 
 ## Development server
 
