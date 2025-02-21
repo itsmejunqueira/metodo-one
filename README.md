@@ -1,21 +1,44 @@
-Landing Page - Metodo One
+
 
 📌Sobre esse projeto
 
-Pagina unica para venda de curso 
+Landing Page - Metodo One para Venda de curso 
+
 - Apresentação do "curso" por video.
 - Apresentação do "curso" por foto.
 - Vantagens de adquirir o "curso".
 - Carrossel apresentando as "Avaliações do alunos".
 - Accordion com respostas de duvidas sobre o "curso".
 - Termos de uso e Diretos do site.
+  
+ 📲 Versão publicada 💻
+ 
+https://itsmejunqueira.github.io/metodo-one/
 
-👓 Gerado com:
+🌐Technologies
 
- * [Angular CLI](https://github.com/angular/angular-cli) version 16.0.1.
- * Bootstrap 5.3.3
-
-
+<div>
+   <a href="#">
+        <img src="https://img.shields.io/static/v1?label=Language&message=Typescript&color=blue&style=for-the-badge&logo=Typescript" alt="Language: Typescript">
+    </a>
+    <a href="#">
+        <img src="https://img.shields.io/static/v1?label=Language&message=Javascript&color=yellow&style=for-the-badge&logo=JavaScript" alt="Language: Javascript">
+    </a>
+   <a href="#">
+        <img src="https://img.shields.io/static/v1?label=Language&message=SASS&color=ff69b4&style=for-the-badge&logo=SASS" alt="Language: SASS">
+    </a>
+  <br>
+    <a  href="#">
+      <img  src="https://img.shields.io/static/v1?label=Framework&message=Angular 15&color=e23237&style=for-the-badge&logo=Angular"  alt="Language: Angular"> 
+    </a>
+    <a href="#">
+      <img  src="https://img.shields.io/static/v1?label=framework&message=Bootstrap&color=563d7c&style=for-the-badge&logo=Bootstrap"  alt="Language: Bootstrap">
+    </a>
+      <a  href="#">
+      <img  src="https://img.shields.io/static/v1?label=Design&message=Angular material&color=e23237&style=for-the-badge&logo=Angular"  alt="Language: Angular"> 
+    </a>
+    <br>
+</div>
 
 ![](https://github.com/itsmejunqueira/metodo-one/blob/firts-steps/src/assets/midia/landing-video.JPG)
 ![](https://github.com/itsmejunqueira/metodo-one/blob/firts-steps/src/assets/midia/landing-2-foto.JPG)
